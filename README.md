@@ -73,7 +73,7 @@ uv pip install -r pyproject.toml
 ```
 ou
 ```bash
-uv pip install .
+uv sync
 ```
 
 3. Crie um arquivo `.env` na raiz com a seguinte variável:
